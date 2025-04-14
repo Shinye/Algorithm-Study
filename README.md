@@ -1,5 +1,2 @@
-# 알고리즘 코드 백업
-주로 Baekjoon Online Judge나 Cracking the coding interview의 문제들을 풀어 올립니다.<br>
-OS는 OSX이며 사용하는 IDE는 XCode 혹은 온라인 IDE인 IDEOne 입니다.<br>
-
-
+알고리즘으로 잃어버린 코딩 초심 찾기... 가쟛
+![image](https://github.com/user-attachments/assets/ea179531-b4f4-4510-83ee-6d0f294eefb2)
